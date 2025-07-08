@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.each_user {
+    box-shadow: 5px 8px 18px #ccc;
+}
