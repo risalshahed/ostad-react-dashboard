@@ -1,12 +1,39 @@
-# React + Vite
+# Frontend Excellence with Tailwind CSS, React & Next.Js - Batch 5 (Ostad)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Module 9 - Building Dashboard Interfaces with React
 
-Currently, two official plugins are available:
+### Outline
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Sidebar Navigation
 
-## Expanding the ESLint configuration
+  - How does dashboard menu increase User Experience
+  - Static vs. Collapsible Sidebar
+  - Active Link Highlight
+  - Integration with Routing
+  - Responsiveness
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Top Navbar
+
+  - Why is Navbar necessary?
+  - Sticky / Fixed Navbar
+  - Responsive Navbar (Hamburger menu)
+
+- Dashboard Overview (Summary Cards)
+
+  - Grid Layout for Cards
+  - Dynamic Data Integration
+  - Visual Hierarchy (Typography, Icons, Colors)
+  - Designing Card Component
+  - Props Passing (title, icon, value)
+  - Tailwind Styling (shadow, border, hover)
+  - Responsive Grid
+
+- Data Table
+
+  - Table Header vs. Body
+  - Pagination, Sorting, Filtering Concepts
+
+- Charts and Graphs
+
+  - Chart Types (Bar, Line, Pie)
+  - Choosing Libraries (e.g., Recharts)
